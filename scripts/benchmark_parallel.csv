@@ -1,0 +1,3 @@
+Batch,TimeTaken(s),Records,Throughput(rec/sec)
+1,0.05,2,41.01
+2,0.03,4,120.5
